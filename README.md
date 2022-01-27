@@ -1,3 +1,3 @@
 # myGoLang
-My Golang Learnings Local Test Kicks
-test 5
+My Golang Learnings 
+Let´s try to run kicks
